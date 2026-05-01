@@ -23,6 +23,7 @@ Clustering: The first two columns of $U$ and $V$ reveals different segments of t
 Dimensionality Reduction: 15 singular values were found to capture 85.76% of the total variance in the dataset.
 
 License of the Kaggle Dataset:
+
 CC0: Public Domain
 No Copyright
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
